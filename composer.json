@@ -1,0 +1,15 @@
+{
+    "name": "ferre/comments",
+    "autoload": {
+        "psr-4": {
+            "Ferre\\Comments\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jean Carlos Trejo",
+            "email": "jeancarlostrejo19@gmail.com"
+        }
+    ],
+    "require": {}
+}
