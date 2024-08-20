@@ -28,7 +28,7 @@ $comments = Comment::getAll($url);
         <input type="text" name="username" placeholder="Username..." required>
         <textarea name="text" id="" cols="30" rows="10" required placeholder="Your comment"></textarea>
 
-        <input type="submit" value="Submit">
+        <input type="submit" value="Submit" class="button">
     </form>
 
     <div class="comments">
